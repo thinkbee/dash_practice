@@ -1,16 +1,11 @@
 # dash_practice
 
-[]()
-
-[링크 이름 day1](./day1/)
-
 <a href=''>링크 이름</a>
 
 <a href='./day1/readme.md'>링크 이름 day1</a>
 
 # 이미지 태그
 
-![설명](https://src.hidoc.co.kr/image/lib/2022/5/12/1652337370806_0.jpg)
 <img src='https://src.hidoc.co.kr/image/lib/2022/5/12/1652337370806_0.jpg' width='700'>
 
 # 인용문
